@@ -6,12 +6,12 @@ const App = () => {
     <>
       <div
         style={{
-          border: '0.7px solid grey',
           height: '40vh',
           display: 'flex',
           flexDirection: 'column',
           justifyContent: 'space-around',
           padding: '10px',
+          flexWrap:"wrap"
         }}
       >
         <div
